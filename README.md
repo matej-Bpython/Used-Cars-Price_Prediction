@@ -172,7 +172,7 @@ This approach prevents unnecessary loss of valid observations.
 Feature engineering is implemented in:
 
 ```text
-src/feature_engineering.py
+source/feature_engineering.py
 ```
 
 The following features were created:
@@ -236,7 +236,7 @@ This allows the model to capture more specific market differences between indivi
 Preprocessing is implemented in:
 
 ```text
-src/data_preprocessing.py
+source/data_preprocessing.py
 ```
 
 ### Numerical features
@@ -410,7 +410,7 @@ However, the model is not expected to predict every car's exact market price. Re
 
 ## 14. Example Prediction
 
-The project includes `src/predict.py`.
+The project includes `source/predict.py`.
 
 Example input:
 
