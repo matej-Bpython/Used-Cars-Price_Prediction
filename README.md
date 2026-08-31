@@ -73,7 +73,7 @@ car-price-prediction/
 │   └── cars.csv
 │
 ├── notebooks/
-│   └── 01_car_price_prediction.ipynb
+│   └── used_car_price_prediction.ipynb
 │
 ├── src/
 │   ├── __init__.py
