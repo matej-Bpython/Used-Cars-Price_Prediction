@@ -143,7 +143,7 @@ These observations were reviewed as part of data cleaning.
 Data cleaning is implemented in:
 
 ```text
-src/data_cleaning.py
+source/data_cleaning.py
 ```
 
 The cleaning process:
