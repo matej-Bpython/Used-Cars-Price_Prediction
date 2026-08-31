@@ -75,7 +75,7 @@ car-price-prediction/
 ├── notebooks/
 │   └── used_car_price_prediction.ipynb
 │
-├── src/
+├── source/
 │   ├── __init__.py
 │   ├── data_cleaning.py
 │   ├── feature_engineering.py
